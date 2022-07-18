@@ -1,0 +1,6 @@
+expected,lowerLimitRange,upperLimitRange
+3,200,300
+8,100,300
+7,250,500
+1,1,3
+0,-100,-300
